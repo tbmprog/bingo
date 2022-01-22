@@ -1,0 +1,11 @@
+Jogo de bingo em Python
+
+1. Sorteia números aleatórios de 1 a 76.
+
+2. Imprime o número sorteado na tela.
+
+3. Guarda os números sorteados numa lista.
+
+4. Imprime a lista de números já sorteados na tela.
+
+
